@@ -2,7 +2,8 @@
     margin-top: 10%;
     display: flex;
     justify-content: center;
-    background-color: rgb(100, 206, 74);
+    background-color: rgb(65, 65, 65);
+    color: white;
     padding: 20px;
     border-radius: 20px;
 }
@@ -11,9 +12,11 @@ b {
     margin: 0 auto;
     max-width: 800px;
     display: flex;
+    align-items: center;
     justify-content: center;
-    background-color: rgb(228, 55, 55);
+    background-color: rgb(209, 209, 209);
     border-radius: 20px;
     padding: 20px;
-    color: whitesmoke;
+    color: rgb(51, 51, 51);
 }
+
