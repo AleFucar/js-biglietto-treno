@@ -1,0 +1,19 @@
+.title {
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(100, 206, 74);
+    padding: 20px;
+    border-radius: 20px;
+}
+
+b {
+    margin: 0 auto;
+    max-width: 800px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(228, 55, 55);
+    border-radius: 20px;
+    padding: 20px;
+    color: whitesmoke;
+}
